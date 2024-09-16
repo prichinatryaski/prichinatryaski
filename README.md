@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi, my name is Egor
+I have no time to write something ✨ _cool_ ✨in here cause I write code. I mostly use C++, C and Python
+Message me using [Telegram](https://t.me/@tlenojuk)
 <!--
 **prichinatryaski/prichinatryaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
